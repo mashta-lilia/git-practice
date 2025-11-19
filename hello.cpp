@@ -1,6 +1,8 @@
 #include <iostream>
+#include "hello.h"
+
 using namespace std;
 
-void say_hello(){
+void sayHello(){
     cout << "Lilia" << endl;
 }
