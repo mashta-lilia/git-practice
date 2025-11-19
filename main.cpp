@@ -6,5 +6,6 @@ using namespace std;
 int main(){
     cout << "Hello, World!" << endl;
     sayHello();
+    cin.get(); 
     return 0;
 }
